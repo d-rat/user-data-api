@@ -16,7 +16,7 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3000/users/ravi
+GET http://localhost:3000/users/lori
 
 
 ###
